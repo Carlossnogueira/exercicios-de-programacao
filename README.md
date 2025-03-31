@@ -1,12 +1,12 @@
-# Exercícios - Typescript / JavaScript / Java
+# Exercícios - Usando linguagens do meu cotidiano
 
 
-Lista de Exercícios em Typescript / JavaScript / Java
+Lista de Exercícios em Typescript / JavaScript / Java / Python
 Repositório original: https://github.com/victorperin/Exercicios-Java
 
 **Atenção:** QUALQUER tipo de correção é bem-vinda, sinta-se à vontade para me enviar pull requests, issues, alterações na wiki, etc...
 
-#### Meta: 2 Exercícios por dia
+#### Meta: 1 Exercícios por dia
 
 ##### Legenda
 | Símbolo  | Significado |
@@ -38,7 +38,7 @@ Repositório original: https://github.com/victorperin/Exercicios-Java
 | 12 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) | Exercício finalizado (Ainda pode receber melhorias) |
 | 13 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) | Exercício finalizado (Ainda pode receber melhorias) |
 | 14 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) | Exercício finalizado (Ainda pode receber melhorias) |
-| 15 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 15 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) | Exercício finalizado (Ainda pode receber melhorias) |
 
 ### Nível 3: Estrutura de Seleção
 | Exercício  | Estado |
