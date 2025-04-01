@@ -14,7 +14,6 @@ let quantVendida = 12;
 
 let resultTotal = precoPeca * quantVendida;
 let comissao = resultTotal * 0.05;
-console.log(comissao);
 
 console.log("----- Recibo de Comissão -----");
 console.log("Vendedor: " + indend);
