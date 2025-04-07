@@ -24,12 +24,13 @@ while opcao <= 0:
     print("1. Adição\n2. Subtração\n3. Multiplicação\n4. Divisão") 
     opcao = int(input("Digite a opção desejada:")) 
 
-    if opcao == 1:
-        print(f"{numero1} + {numero2} = {numero1+numero2}")
-    elif opcao == 2:    
-        print(f"{numero1} - {numero2} = {numero1-numero2}")
-    elif opcao == 3:   
-        print(f"{numero1} * {numero2} = {numero1*numero2}")
-    elif opcao == 4:   
-        print(f"{numero1} / {numero2} = {numero1/numero2}")
+    match opcao:
+        case 1:
+            print(f"{numero1} + {numero2} = {numero1+numero2}")
+        case 2:
+            print(f"{numero1} - {numero2} = {numero1-numero2}")
+        case 3:
+            print(f"{numero1} * {numero2} = {numero1*numero2}")
+        case 4:
+            print(f"{numero1} / {numero2} = {numero1/numero2}")
         
