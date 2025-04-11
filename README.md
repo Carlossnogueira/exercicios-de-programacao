@@ -60,8 +60,22 @@ Repositório original: https://github.com/victorperin/Exercicios-Java
 | 26 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) |
 | 27 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) |
 | 28 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) |
-| 29 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 30 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 29 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) |
+| 30 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) |
+| 31 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) |
+| 32 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 33 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 34 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 35 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 36 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 37 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 38 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 39 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 40 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 41 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 42 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 43 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 44 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
 
 ### Nível 5: Vetores e Matrizes
 | Exercício  | Estado |
