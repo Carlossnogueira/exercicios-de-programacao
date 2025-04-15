@@ -1,0 +1,15 @@
+C:\Users\Windows-pc\Desktop\Programação\Exercicios Individuais\exercicios-de-programacao\Lista 2\1\um\bin\Debug\net9.0\um.exe
+C:\Users\Windows-pc\Desktop\Programação\Exercicios Individuais\exercicios-de-programacao\Lista 2\1\um\bin\Debug\net9.0\um.deps.json
+C:\Users\Windows-pc\Desktop\Programação\Exercicios Individuais\exercicios-de-programacao\Lista 2\1\um\bin\Debug\net9.0\um.runtimeconfig.json
+C:\Users\Windows-pc\Desktop\Programação\Exercicios Individuais\exercicios-de-programacao\Lista 2\1\um\bin\Debug\net9.0\um.dll
+C:\Users\Windows-pc\Desktop\Programação\Exercicios Individuais\exercicios-de-programacao\Lista 2\1\um\bin\Debug\net9.0\um.pdb
+C:\Users\Windows-pc\Desktop\Programação\Exercicios Individuais\exercicios-de-programacao\Lista 2\1\um\obj\Debug\net9.0\um.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows-pc\Desktop\Programação\Exercicios Individuais\exercicios-de-programacao\Lista 2\1\um\obj\Debug\net9.0\um.AssemblyInfoInputs.cache
+C:\Users\Windows-pc\Desktop\Programação\Exercicios Individuais\exercicios-de-programacao\Lista 2\1\um\obj\Debug\net9.0\um.AssemblyInfo.cs
+C:\Users\Windows-pc\Desktop\Programação\Exercicios Individuais\exercicios-de-programacao\Lista 2\1\um\obj\Debug\net9.0\um.csproj.CoreCompileInputs.cache
+C:\Users\Windows-pc\Desktop\Programação\Exercicios Individuais\exercicios-de-programacao\Lista 2\1\um\obj\Debug\net9.0\um.sourcelink.json
+C:\Users\Windows-pc\Desktop\Programação\Exercicios Individuais\exercicios-de-programacao\Lista 2\1\um\obj\Debug\net9.0\um.dll
+C:\Users\Windows-pc\Desktop\Programação\Exercicios Individuais\exercicios-de-programacao\Lista 2\1\um\obj\Debug\net9.0\refint\um.dll
+C:\Users\Windows-pc\Desktop\Programação\Exercicios Individuais\exercicios-de-programacao\Lista 2\1\um\obj\Debug\net9.0\um.pdb
+C:\Users\Windows-pc\Desktop\Programação\Exercicios Individuais\exercicios-de-programacao\Lista 2\1\um\obj\Debug\net9.0\um.genruntimeconfig.cache
+C:\Users\Windows-pc\Desktop\Programação\Exercicios Individuais\exercicios-de-programacao\Lista 2\1\um\obj\Debug\net9.0\ref\um.dll
