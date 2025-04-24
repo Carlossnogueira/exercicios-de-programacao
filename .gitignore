@@ -1,5 +1,4 @@
-/.idea
-/shelf/
-/workspace.xml
-/out
-/.vscode
+.idea/
+.vscode/
+node_modules/
+*json
