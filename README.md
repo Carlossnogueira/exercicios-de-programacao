@@ -86,7 +86,7 @@ Repositório original: https://github.com/victorperin/Exercicios-Java
 | 48 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) |
 | 49 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) |
 | 50 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) |
-| 51 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 51 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) |
 | 52 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
 | 53 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
 | 54 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
